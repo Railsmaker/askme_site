@@ -23,4 +23,4 @@ rails db:migrate
 ##
 
 ##### Автор:
-[Алексей Ряписов](https://raysmaker.github.io/person)
+Alexey V.Ryapisov: <a href="https://raysmaker.github.io/cv/">Raysmaker</a>
