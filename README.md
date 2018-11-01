@@ -1,5 +1,5 @@
 ### SITE "ASK ME"
-отвечайте на вопросы
+отвечайте на вопросы  <a href="https://askme2018.herokuapp.com/">образец</a>
 
 <img src="https://akimg0.ask.fm/assets2/116/596/070/144/normal/qc4wXsGQht8.jpg" width="320">
 
